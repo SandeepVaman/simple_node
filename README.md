@@ -8,7 +8,7 @@ To get this project up and running, you will need to signup for a resin.io accou
 ```
 $ git clone git@github.com:resin-projects/simple-server-node.git
 ```
-Then add your resin.io application's remote repository to your local repository:
+Then add your resin.io application's remote repository to your local repository:s
 ```
 $ git remote add resin username@git.resin.io:username/myapp.git
 ```
