@@ -1,8 +1,11 @@
-### A Simple Server with Node.js Express  app
+### A Simple Servers with Node.js Express  application
 
-This is a not simple  skeleton Express server project that works on any of the [resin.io][resin-link] supported devices.
+This is a very simple  skeleton Express  server project that works on any of the [resin.io][resin-link] supported devices.
 
-This project serves up `" Hello World!"` on port `:80` of your resin.io devices.
+
+This project serves up `"Hello World!"` on port  `:80` of your resin.io devices.
+
+
 
 To get this project up and running, you will need to signup for a resin.io account [here][signup-page] and set up a device, have a look at our [Getting Started tutorial][gettingStarted-link]. Once you are set up with resin.io, you will need to clone this repo locally:jf
 ```
