@@ -1,4 +1,4 @@
-### A Simple Servers with Node.js Express  app
+### A Simple Servers with Node.js Express  application
 
 This is a simple  skeleton Express  server project that works on any of the [resin.io][resin-link] supported devices.
 
