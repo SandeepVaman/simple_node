@@ -1,6 +1,6 @@
 ### A Simple Servers with Node.js Express  app
 
-This is a simple  skeleton Express server project that works on any of the [resin.io][resin-link] supported devices.
+This is a simple  skeleton Express  server project that works on any of the [resin.io][resin-link] supported devices.
 
 This project serves up `" Hello World!"` on port `:80` of your resin.io devices.
 
