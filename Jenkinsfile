@@ -9,7 +9,7 @@ pipeline{
         }
         stage("stage2"){
             steps{
-                checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '81bb2862-4bdd-401a-a094-30b228fb1f47', url: 'https://github.com/SandeepVaman/simple_node.git']]])
+                echo 'In stage two"
 
             }
         }
