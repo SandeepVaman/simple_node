@@ -10,6 +10,7 @@ pipeline{
         stage("stage2"){
             steps{
                 echo 'In stage two'
+                exit 1
                 script {
                     properties([[$class: 'GithubProjectProperty',
                     projectUrlStr: '<GitHub repo URL>']])
